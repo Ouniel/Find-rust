@@ -239,7 +239,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "find"
+name = "find-flag"
 version = "0.1.0"
 dependencies = [
  "chrono",
